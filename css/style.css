@@ -1,0 +1,91 @@
+
+body{
+
+    overflow-x: hidden;
+}
+
+.header-color{
+    background-color: #264653;
+}
+.purchase-button{
+    background-color: #E76F51;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 50px;
+    color: white;
+    font-size:18px ;
+    font-weight: 500px;
+    line-height: 27px;
+    margin-top:5px ;
+
+}
+.pop-up{
+    background-color: rgb(182, 207, 182);
+}
+
+.faeatuesr-bike{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.bike-collecetion-txtcolor{
+    color: #E76F51;
+    font-size: 15px;
+    font-weight: 600;
+    
+}
+
+hr{
+    width: 50px;
+   background-color: #E76F51;
+    margin:  auto;
+}
+.gray{
+    filter: grayscale(100%);
+}
+.btn-ReadMore{
+    background-color: #E76F51;
+    border-radius: 5px;
+    border: none;
+    padding: 15px 35px;
+    color: white;
+    font-size:18px ;
+    font-weight: 500px;
+    line-height: 27px;
+
+}
+.btn-ouline{
+    background-color: white;
+    border: 2px solid #E76F51;
+    border-radius: 5px;
+    padding: 15px 35px;
+    color: #E76F51;
+    font-size:18px ;
+    font-weight: 500px;
+    line-height: 27px;
+
+}
+/* HAPPY CLIENTS */
+span{
+    color: #E76F51;
+
+}
+/* icon color */
+.fas{
+    color:#E76F51 ;
+}
+.button-togle {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.border-toggle{
+    border: 2px solid #D5E5FB;
+    
+}
+.subscribee-bg-info{
+    background-color: aqua;
+}
